@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on creating a simple http server with Deno
 
-This repository contains code and related materials for [trying Deno]() video.
+This repository contains code and related materials for [building simple HTTP server with Deno](https://youtu.be/z9hJMZo-pFM) video.
 
 ## Project description
 
