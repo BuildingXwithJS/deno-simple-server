@@ -1,6 +1,5 @@
 run:
-	deno --allow-net --allow-read main.ts
-
+	deno run --unstable --allow-net --allow-read main.ts
 build:
 	deno bundle main.ts server.ts
 
